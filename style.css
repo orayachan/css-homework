@@ -94,6 +94,10 @@ body {
     -o-border-radius: 10px;
 }
 
+.article--breadth>input:hover {
+    background-color: #81B9DC;
+}
+
 /* --- Article: Depth --- */
 .article--depth>span {
     font-weight: 700;
